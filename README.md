@@ -23,7 +23,7 @@ added a horizontal scroll navbar and fixed side navbar with scroll
  http://rogerdudler.github.io/git-guide/ \
  
  ***********
- # side note:
+ # Pushing via git:
  was trying to push readme changes but couldnt b/c i was in wrong file path. resolved by logging out of bash and closed project files then opened git bash here in correct file path \
  then git status\
  git add . \
