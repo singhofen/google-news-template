@@ -2,6 +2,10 @@
 
  Bootstrap 4, Includes side scrolling, news templete themed...
 
+ https://codepen.io/csinghofen/pen/YjJwad
+ ***
+ https://codepen.io/csinghofen/pen/djadQQ
+ ***
  
 
 # added new branch horizontal_scrolling.
