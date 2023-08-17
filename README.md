@@ -1,23 +1,15 @@
-# Google news feed home page web page 
-
- Bootstrap 4, Includes side scrolling, news templete theme
+# Creative/fun Google news feed home page web page 
+# Click the codepen links to view. <br>
 
  https://codepen.io/csinghofen/pen/YjJwad
+
+ ![google home pg](https://github.com/singhofen/google-news-template/assets/23155302/1c0bcf6b-12f9-461f-a349-aebde5046d05)
+
  ***
  https://codepen.io/csinghofen/pen/djadQQ
- ***
- https://codepen.io/csinghofen/pen/djadQQ
+ *** 
+  ![google home pg 2](https://github.com/singhofen/google-news-template/assets/23155302/75350098-df78-48f0-8f1d-6ce69270802b)
 
-# added new branch horizontal_scrolling.
-
-******************
-possible new features/design for google news feed template repo.
-
-
-added a horizontal scroll navbar and fixed side navbar with scroll 
- 
- **************
- 
  # helpful links for creating and merging new branches to repo's
 
  https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches \
